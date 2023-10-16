@@ -1,0 +1,28 @@
+.lista {
+    width: 600px;
+    margin:30px;
+}
+h1 {
+    font-size: 3em;
+    background-color: beige;
+}
+
+.banana {
+    font-size: 2em ;
+    background-color: yellow;
+}
+
+.maca {
+    font-size: 2em;
+    background-color: #B32220;
+}
+
+.manga {
+    font-size: 2em;
+    background-color: #FC8A2B;
+}
+
+.total {
+    font-size: 2em;
+    background-color: lightgreen;
+}
