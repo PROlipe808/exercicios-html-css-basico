@@ -1,14 +1,22 @@
-
-
-.primeiro {
-    background-color: #F5F5F5;
+/* oi sei q o margin deveria estar co 40px, mas se somar os pixels entre os paragarfos o tatal é 40px, 
+20 do proprio padding e 20 do margin,
+veja abaixo, a outra soluçao*/
+/* p {
     margin: 40px;
     padding: 20px;
+} */
+
+p {
+    margin: 20px;
+    padding: 20px;
+}
+.primeiro {
+    background-color: #F5F5F5;
+
 }
 
 .segundo {
-    margin: 40px;
-    padding: 20px;
+
     background-color:#F0CCE2;
     
 }
